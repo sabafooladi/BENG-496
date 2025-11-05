@@ -10,7 +10,7 @@ https://beng469f.ycrc.yale.edu/
 
 Click **Clusters** -> **shell access**
 
-<p><img width="1000" src="https://github.com/sabafooladi/BENG-496/blob/main/Lab7-2/ood1.png" alt="foo bar" title="train &amp; tracks" /></p>
+<p><img width="1000" src="https://github.com/sabafooladi/BENG-496/blob/main/Lab7-2/bouchet.png" alt="foo bar" title="train &amp; tracks" /></p>
 
 
 Go to your results under **project** fileset to Check the log file for STPipeline
