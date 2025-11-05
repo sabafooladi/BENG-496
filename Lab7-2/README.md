@@ -16,7 +16,7 @@ Click **Clusters** -> **shell access**
 Go to your results under **project** fileset to Check the log file for STPipeline
 
 ```
-cd project/Lab7-Spatial_transcriptomics/GSM4189611_50t
+cd /nfs/roberts/project/beng469f/beng469f_NETID/Lab7-Spatial_transcriptomics/50t/
 ```
 
 Use ls command to list files and directories.
