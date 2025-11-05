@@ -2,6 +2,8 @@
 # BENG 469 Lab session 7-2 - instructions
 
 #### Open OOD in a browser window
+https://beng469f.ycrc.yale.edu/
+ 
 
 ```
 https://beng469f.ycrc.yale.edu/
