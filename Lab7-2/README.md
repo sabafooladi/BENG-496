@@ -23,35 +23,73 @@ Use ls command to list files and directories.
 ```
 ls -lrt 
 ```
-<p><img width="1000" src="https://github.com/MingyuYang-Yale/BENG469/blob/main/SP21/log4.png" alt="foo bar" title="train &amp; tracks" /></p>
+<p><img width="1000" src="https://github.com/sabafooladi/BENG-496/blob/main/Lab7-2/3.png" alt="foo bar" title="train &amp; tracks" /></p>
 
 ```
-cat GSM4189611_50t_log.txt
+cat 50t_log.txt
 ```
-<p><img width="1000" src="https://github.com/MingyuYang-Yale/BENG469/blob/main/SP21/log1.png" alt="foo bar" title="train &amp; tracks" /></p>
+<p><img width="1000" src="https://github.com/sabafooladi/BENG-496/blob/main/Lab7-2/4.png" alt="foo bar" title="train &amp; tracks" /></p>
 
-<p><img width="1000" src="https://github.com/MingyuYang-Yale/BENG469/blob/main/SP21/log2.png" alt="foo bar" title="train &amp; tracks" /></p>
+<p><img width="1000" src="https://github.com/sabafooladi/BENG-496/blob/main/Lab7-2/5.png" alt="foo bar" title="train &amp; tracks" /></p>
 
-<p><img width="1000" src="https://github.com/MingyuYang-Yale/BENG469/blob/main/SP21/log3.png" alt="foo bar" title="train &amp; tracks" /></p>
+<p><img width="1000" src="https://github.com/sabafooladi/BENG-496/blob/main/Lab7-2/6.png" alt="foo bar" title="train &amp; tracks" /></p>
 
 
-Go to **palmer_scratch** directory
+Go to **Lab7-Spatial_transcriptomics** directory
 ```
-cd ~/palmer_scratch 
-```
-
-Then go to the Lab7-Spatial_transcriptomics directory
-```
-cd Lab7-Spatial_transcriptomics
+cd /nfs/roberts/project/beng469f/beng469f_sf882/Lab7-Spatial_transcriptomics/
 ```
 
-#### Copy Rmd files to you folder
+#### Copy ipynb file to you folder
 ```
-cp /vast/palmer/scratch/fan/my393/BENG469/L7/00.bin/Lab7-DBiT-seq.Rmd ./
+cp /nfs/roberts/project/beng469f/shared/Lab7/Lab7-SpatialDE.ipynb ./
+```
+
+Start an interactive job
+
+```
+salloc
 ```
 
 ```
-cp /vast/palmer/scratch/fan/my393/BENG469/L7/00.bin/Lab7-SpatialDE.ipynb ./
+module load miniconda
+```
+
+```
+conda create -y -n spatialde python=3.7
+```
+
+```
+conda activate spatialde
+```
+
+```
+pip install numpy pandas matplotlib jupyter patsy
+```
+
+```
+pip install spatialde
+```
+
+
+```
+module purge
+```
+
+```
+ycrc_conda_env.sh update
+```
+
+```
+cd ~/ondemand
+```
+
+```
+ls -lrt
+```
+
+```
+cat conda-jupyter-env-list.txt
 ```
 
 ---
