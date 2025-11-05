@@ -2,8 +2,8 @@
 #  BENG 469 Assignemnt 2 - instructions
 
 ##  Part 1: Run stpipeline on another sample (GSM4096261_10t)
-1. Access the Mccleary cluster
-  <p><img width="1000" src="https://github.com/MingyuYang-Yale/BENG469/blob/main/SP21/Assignment1/ood-ssh-login.png" alt="foo bar" title="train &amp; tracks" /></p>
+1. Access the Bouchet cluster
+  <p><img width="1000" src="https://github.com/sabafooladi/BENG-496/blob/main/Lab7-2/bouchet.png" alt="foo bar" title="train &amp; tracks" /></p>
 
 2. Go to the Lab7-Spatial_transcriptomics directory:
 ```bash
