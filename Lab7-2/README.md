@@ -90,6 +90,10 @@ ls -lrt
 cat conda-jupyter-env-list.txt
 ```
 
+```
+exit
+```
+
 ---
 
 #### Launch a Jupyter session:
