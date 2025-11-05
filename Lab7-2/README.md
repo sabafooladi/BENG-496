@@ -35,7 +35,7 @@ cat 50t_log.txt
 
 Go to **Lab7-Spatial_transcriptomics** directory
 ```
-cd /nfs/roberts/project/beng469f/beng469f_sf882/Lab7-Spatial_transcriptomics/
+cd /nfs/roberts/project/beng469f/beng469f_NETID/Lab7-Spatial_transcriptomics/
 ```
 
 #### Copy ipynb file to you folder
