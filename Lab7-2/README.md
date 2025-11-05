@@ -4,7 +4,7 @@
 #### Open OOD in a browser window
 
 ```
-beng469.ycrc.yale.edu
+https://beng469f.ycrc.yale.edu/
 ```
 
 Click **Clusters** -> **shell access**
