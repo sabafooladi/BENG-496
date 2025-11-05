@@ -7,7 +7,7 @@
 
 2. Go to the Lab7-Spatial_transcriptomics directory:
 ```bash
-cd ~/project/Lab7-Spatial_transcriptomics
+cd /nfs/roberts/project/beng469f/beng469f_NETID/Lab7-Spatial_transcriptomics/
 ```
 3. Create a new diretory named 'Assignment2':
 ```bash
@@ -19,7 +19,7 @@ cd Assignment2
 ```
 5. Copy the stpipeline-Assignment2.sh to your folder:
 ```bash
-cp /vast/palmer/scratch/fan/my393/BENG469/L7/00.sh/stpipeline-Assignment2.sh ./
+cp /nfs/roberts/project/beng469f/shared/Assignment2/stpipeline-assignment2.sh ./
 ```
 
 6. Copy .ipynb file to you folder:
