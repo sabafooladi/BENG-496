@@ -26,21 +26,19 @@ cp /nfs/roberts/project/beng469f/shared/Assignment2/stpipeline-assignment2.sh ./
 ```bash
 cp /vast/palmer/scratch/fan/my393/BENG469/L7/00.bin/Lab7-SpatialDE-Assignment2.ipynb ./
 ```
-7. **Open the stpipeline-Assignment2.sh file and change the SampleID to 'GSM4096261_10t':**
-<p><img width="200" src="https://github.com/MingyuYang-Yale/BENG469/blob/main/SP21/a2-1.png" alt="foo bar" title="train &amp; tracks" /></p>
 
 
-8. Start an interactive job:
+7. Start an interactive job:
 ```bash
 (leave as blank on purpose)
 ```
 
-9. Load Miniconda and activate the conda environment 'st-pipeline':
+8. Load Miniconda and activate the conda environment 'st-pipeline':
 ```bash
 (leave as blank on purpose)
 ```
 
-10. Submit the job to the compute node:
+9. Submit the job to the compute node:
 
 Replace NETID with your netid (don’t need to add beng469) and your email address.
 ```bash
@@ -54,7 +52,7 @@ Pause and wait for the job to finish (approximately 3 hours). After receiving an
 $\color{red}{\textsf{If you successfully finish Part 1, when you run the following command}}$
 
 ```bash
-ls -lrt ~/project/Lab7-Spatial_transcriptomics/Assignment2/GSM4096261_10t/
+ls -lrt /nfs/roberts/project/beng469f/beng469f_$NETID/Lab7-Spatial_transcriptomics/Assignment2/10t/
 ```
 
 $\color{red}{\textsf{You will get 4 files:}}$
