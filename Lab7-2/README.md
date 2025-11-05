@@ -94,77 +94,23 @@ cat conda-jupyter-env-list.txt
 
 ---
 
-#### Go back to OOD and Launch an Rstudio-server session:
-
-<p><img width="1000" src="https://github.com/MingyuYang-Yale/BENG469/blob/main/SP21/ood-8.png" alt="foo bar" title="train &amp; tracks" /></p>
+#### Launch a Jupyter session:
 
    
-Go to the Rstudio-server initialization page, and specify the parameters/resources as follows:
+Go to the Jupyter initialization page, and specify the parameters/resources as follows:
 
 | Parameters      | Values |
 | ----------- | ----------- |
-| R version      | R/4.2.0-foss-2020b       |
+| version      | Conda:spatialde       |
 | Number of hours   | 6        |
 | Number of CPU cores per node   | 1       |
 | Memory per CPU core in GiB   | 8       |
-| Partitions   | day        |
-| Reservation | beng469 |
+| Partitions   | education        |
+
+<p><img width="1000" src="https://github.com/sabafooladi/BENG-496/blob/main/Lab7-2/7.png" alt="foo bar" title="train &amp; tracks" /></p>
 
 
-<p><img width="1000" src="https://github.com/MingyuYang-Yale/BENG469/blob/main/SP21/rsession1.png" alt="foo bar" title="train &amp; tracks" /></p>
+<p><img width="1000" src="https://github.com/sabafooladi/BENG-496/blob/main/Lab7-2/8.png" alt="foo bar" title="train &amp; tracks" /></p>
 
-```
-~/palmer_scratch/Lab7-Spatial_transcriptomics
-```
 
 ### [SpatialDE](https://www.nature.com/articles/nmeth.4636)
-
-<p><img width="1000" src="https://github.com/MingyuYang-Yale/BENG469/blob/main/SP21/Assignment1/ood-ssh-login.png" alt="foo bar" title="train &amp; tracks" /></p>
-
-```
-salloc
-```
-```
-module load miniconda
-```
-```
-conda create -y -n spatialde python=3.7
-```
-```
-conda activate spatialde
-```
-```
-pip install numpy pandas matplotlib jupyter patsy
-```
-```
-pip install spatialde
-```
-```
-module purge
-```
-```
-ycrc_conda_env.sh update
-```
-
-```
-cd ~/ondemand
-```
-```
-cat conda-jupyter-env-list.txt
-```
-
-#### Launch an Jupyter session:
-   
-Go to the **Jupyter** initialization page, and specify the parameters/resources as follows:
-
-| Parameters      | Values |
-| ----------- | ----------- |
-| Environment Setup (select the miniconda environment) | spatialde  |
-| Number of hours   | 6        |
-| Number of CPU cores per node   | 1        |
-| Memory per CPU core in GiB   | 8       |
-| Partitions   | day        |
-| Reservation | beng469 |
-
-<p><img width="800" src="https://github.com/MingyuYang-Yale/BENG469/blob/main/SP21/ood-9.png" alt="foo bar" title="train &amp; tracks" /></p>
-
