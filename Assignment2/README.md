@@ -24,7 +24,7 @@ cp /nfs/roberts/project/beng469f/shared/Assignment2/stpipeline-assignment2.sh ./
 
 6. Copy .ipynb file to you folder:
 ```bash
-cp /vast/palmer/scratch/fan/my393/BENG469/L7/00.bin/Lab7-SpatialDE-Assignment2.ipynb ./
+cp /nfs/roberts/project/beng469f/shared/Assignment2/Lab7-SpatialDE-Assignment2.ipynb ./
 ```
 
 
