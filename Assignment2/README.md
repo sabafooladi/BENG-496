@@ -71,7 +71,7 @@ $\color{red}{\textsf{You will get 4 files:}}$
 | Number of hours   | 6        |
 | Number of CPU cores per node   | 1        |
 | Memory per CPU core in GiB   | 8       |
-| Partitions   | day        |
+| Partitions   | education        |
 | Reservation | beng469 |
 
 2. Open the Jupyter notebook (Project-> Lab7-Spatial_transcriptomics -> Assignment2 -> Lab7-SpatialDE-Assignment2.ipynb)
