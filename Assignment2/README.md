@@ -42,7 +42,7 @@ cp /nfs/roberts/project/beng469f/shared/Assignment2/Lab7-SpatialDE-Assignment2.i
 
 Replace NETID with your netid (don’t need to add beng469) and your email address.
 ```bash
-sbatch stpipeline-Assignment2.sh NETID --mail-user=xx.xx@yale.edu
+sbatch stpipeline-assignment2.sh NETID --mail-user=xx.xx@yale.edu
 ```
 
 Pause and wait for the job to finish (approximately 3 hours). After receiving an email confirming job completion, proceed to Part 2.
