@@ -1,5 +1,5 @@
 
-#  BENG 469 Assignemnt 2 - instructions (Due December 1, 2025)
+#  BENG 469 Assignemnt 2 - instructions (Due December 2, 2025)
 
 ##  Part 1: Run stpipeline on another sample (GSM4096261_10t)
 1. Access the Bouchet cluster
