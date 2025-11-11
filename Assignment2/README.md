@@ -55,7 +55,7 @@ $\color{red}{\textsf{If you successfully finish Part 1, when you run the followi
 ls -lrt /nfs/roberts/project/beng469f/beng469f_$NETID/Lab7-Spatial_transcriptomics/Assignment2/10t/
 ```
 
-$\color{red}{\textsf{You will get 4 files:}}$
+$\color{red}{\textsf{You will get 5 files:}}$
 
 <p><img width="1000" src="https://github.com/sabafooladi/BENG-496/blob/main/Assignment2/10.png" alt="foo bar" title="train &amp; tracks" /></p>
 
