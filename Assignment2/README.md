@@ -30,12 +30,12 @@ cp /nfs/roberts/project/beng469f/shared/Assignment2/Lab7-SpatialDE-Assignment2.i
 
 7. Start an interactive job:
 ```bash
-(leave as blank on purpose)
+
 ```
 
 8. Load Miniconda and activate the conda environment 'st-pipeline':
 ```bash
-(leave as blank on purpose)
+
 ```
 
 9. Submit the job to the compute node:
