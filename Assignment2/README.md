@@ -92,7 +92,7 @@ ls -lrt /nfs/roberts/project/beng469f/beng469f_sf882/Lab7-Spatial_transcriptomic
 
 $\color{red}{\textsf{You will get these files:}}$
 
-<p><img width="1000" src="https://github.com/MingyuYang-Yale/BENG469/blob/main/SP21/a2-4.png" alt="foo bar" title="train &amp; tracks" /></p>
+<p><img width="1000" src="https://github.com/sabafooladi/BENG-496/blob/main/Assignment2/11.png" alt="foo bar" title="train &amp; tracks" /></p>
 
 We will evaluate the results from those files.
 
