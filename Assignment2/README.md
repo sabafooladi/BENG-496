@@ -57,7 +57,7 @@ ls -lrt /nfs/roberts/project/beng469f/beng469f_$NETID/Lab7-Spatial_transcriptomi
 
 $\color{red}{\textsf{You will get 4 files:}}$
 
-<p><img width="1000" src="https://github.com/MingyuYang-Yale/BENG469/blob/main/SP21/a2-3.png" alt="foo bar" title="train &amp; tracks" /></p>
+<p><img width="1000" src="https://github.com/sabafooladi/BENG-496/blob/main/Assignment2/10.png" alt="foo bar" title="train &amp; tracks" /></p>
 
 
 ###  Part 2: Finish 5 code writing/completion tasks in the Jupyter notebook
