@@ -94,7 +94,7 @@ $\color{red}{\textsf{You will get 5 files:}}$
 
 5. Check the Assignment2 directory for files:
 
-$\color{red}{\textsf{You don’t need to submit any additional file or report for this assignment.}}$ 
+$\color{red}{\textsf{Please upload the Jupyter notebook(.ipynb) to Canvas under Assignment2}}$ 
 
 $\color{red}{\textsf{If you successfully finish Part 2, go back to the clusters, and run the following command:}}$
 ```
