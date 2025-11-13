@@ -37,7 +37,7 @@ cp /nfs/roberts/project/beng469f/shared/Assignment2/Lab7-SpatialDE-Assignment2.i
 ```bash
 
 ```
-9. install ***st-pipeline*** and ***spatialde***
+9. Install ***st-pipeline*** and ***spatialde*** (due to the quota limitation, we remove these two conda environment on Lab9, we need to install them again)
 ```
 ```
 
