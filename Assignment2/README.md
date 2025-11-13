@@ -41,13 +41,14 @@ cp /nfs/roberts/project/beng469f/shared/Assignment2/Lab7-SpatialDE-Assignment2.i
 ```
 # (Find the command lines from our previous lab instructions)
 ```
-# (Find the command lines from our previous lab instructions)
+
 ```
 ycrc_conda_env.sh update
 ```
 
 10. Activate **st-pipeline**
 ```
+(Find the command lines from our previous lab instructions)
 ```
 
 12. Submit the job to the compute node:
