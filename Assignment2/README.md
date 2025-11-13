@@ -33,12 +33,19 @@ cp /nfs/roberts/project/beng469f/shared/Assignment2/Lab7-SpatialDE-Assignment2.i
 
 ```
 
-8. Load Miniconda, install and activate the conda environment 'st-pipeline':
+8. Load Miniconda, 
 ```bash
 
 ```
+9. install ***st-pipeline*** and ***spatialde***
+```
+```
 
-9. Submit the job to the compute node:
+10. Activate 'st-pipeline'
+```
+```
+
+12. Submit the job to the compute node:
 
 Replace NETID with your netid (don’t need to add beng469) and your email address.
 ```bash
@@ -61,7 +68,6 @@ $\color{red}{\textsf{You will get 5 files:}}$
 
 
 ###  Part 2: Finish 5 code writing/completion tasks in the Jupyter notebook
-
 
 1. Open OOD and Launch an Jupyter session with the following parameters:
 
