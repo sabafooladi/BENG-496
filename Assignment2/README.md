@@ -30,18 +30,18 @@ cp /nfs/roberts/project/beng469f/shared/Assignment2/Lab7-SpatialDE-Assignment2.i
 
 7. Start an interactive job:
 ```bash
-(Find the command lines from our previous lab instructions)
+# (Find the command lines from our previous lab instructions)
 ```
 
 8. Load Miniconda, 
 ```bash
-(Find the command lines from our previous lab instructions)
+# (Find the command lines from our previous lab instructions)
 ```
 9. Install **st-pipeline** and **spatialde** (due to the quota limitation, we remove these two conda environment on Lab9, we need to install them again )
 ```
-(Find the command lines from our previous lab instructions)
+# (Find the command lines from our previous lab instructions)
 ```
-(Find the command lines from our previous lab instructions)
+# (Find the command lines from our previous lab instructions)
 ```
 ycrc_conda_env.sh update
 ```
