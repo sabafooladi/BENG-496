@@ -33,7 +33,7 @@ cp /nfs/roberts/project/beng469f/shared/Assignment2/Lab7-SpatialDE-Assignment2.i
 
 ```
 
-8. Load Miniconda and activate the conda environment 'st-pipeline':
+8. Load Miniconda, install and activate the conda environment 'st-pipeline':
 ```bash
 
 ```
